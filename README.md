@@ -13,15 +13,15 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** [2526-u4-4-1-poo-basico]
+- **Módulo:** [`PROG`] 
+- **Unidad de Trabajo:** [Unidad 4, Kotlin: POO y estructuras de datos ]
+- **Fecha de Creación:** [16/01/2025]
+- **Fecha de Entrega:** [16/01/2025]
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Indalecio Domínguez Hita]
+  - **Correo electrónico:** [idomhit1411@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [IDH]
 
 ## Descripción de la Actividad
 
